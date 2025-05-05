@@ -14,7 +14,7 @@ A conversational travel booking assistant that uses Google's Gemini 2.0 model wi
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/mcp-airbnb-agent.git
+   git clone https://github.com/Praveena1307/-MCP-POWERED-AIRBNB-AGENT.git
    cd mcp-airbnb-agent
    ```
 
